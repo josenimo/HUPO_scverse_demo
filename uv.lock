@@ -454,6 +454,7 @@ dependencies = [
     { name = "alphapepttools" },
     { name = "ipykernel" },
     { name = "mulink" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -461,6 +462,7 @@ requires-dist = [
     { name = "alphapepttools", specifier = ">=0.4.0" },
     { name = "ipykernel", specifier = ">=7.3.0" },
     { name = "mulink", git = "https://github.com/lucas-diedrich/mulink.git" },
+    { name = "tqdm", specifier = ">=4.70.0" },
 ]
 
 [[package]]
