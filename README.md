@@ -1,6 +1,6 @@
 # HUPO / scverse demo — `alphapepttools` + `mulink`
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josenimo/HUPO_scverse_demo/blob/main/cnDVP_alphapepttools_mulink_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josenimo/HUPO_scverse_demo/blob/main/cnDVP_alphapepttools_mulink_tutorial_JN.ipynb)
 
 An end-to-end tutorial notebook: from a raw DIA-NN report to protein- and
 precursor-level volcano plots, using
